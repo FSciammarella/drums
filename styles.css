@@ -6,14 +6,14 @@ body {
 h1 {
   font-size: 5rem;
   color: #DBEDF3;
-  font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  font-family: 'Noto Sans JP', sans-serif;
+  text-shadow: 4px 1px #da046471;
 
 }
 
 footer {
   color: #DBEDF3;
-  font-family: sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
 }
 
 .w {
@@ -66,7 +66,7 @@ footer {
   outline: none;
   border: 10px solid #404B69;
   font-size: 5rem;
-  font-family: 'Arvo', cursive;
+  font-family: 'Roboto-Mono', monospace;
   line-height: 2;
   font-weight: 900;
   color: #DA0463;
@@ -77,5 +77,7 @@ footer {
   height: 150px;
   text-align: center;
   margin: 10px;
+  padding-left: 5%;
+  padding-top: 1%;
   background-color: white;
 }
