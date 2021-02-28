@@ -1,4 +1,4 @@
-const samples = ["tom-1", "tom-2", "tom-3", "tom-4","snare", "crash","kick-bass"];
+const samples = ["tom-1", "tom-2", "tom-3", "tom-4","crash","snare","kick-bass"];
 const btnList = document.querySelectorAll(".drum"); 
 for (let i =0; i<btnList.length; i++){
     // const sample = new Audio("sounds/"+samples[i]+".mp3");
